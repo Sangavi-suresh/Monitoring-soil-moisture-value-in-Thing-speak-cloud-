@@ -1,4 +1,4 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 # Name : SANGAVI SURESH
 # REF NO : 212222230130
